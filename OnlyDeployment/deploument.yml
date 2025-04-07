@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: mvc
-          image: ghcr.io/namangajjar26/mvcproj:1.0.0
+          image: ghcr.io/namangajjar26/mvcproj:1.0.1
           ports:
             - containerPort: 5199
 
